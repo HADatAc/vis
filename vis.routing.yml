@@ -1,0 +1,7 @@
+vis.grafo:
+  path: '/vis'
+  defaults:
+    _controller: '\Drupal\vis\Controller\visController::display'
+    _title: 'Grafo RDF'
+  requirements:
+    _permission: 'access content'

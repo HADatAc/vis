@@ -1,0 +1,6 @@
+name: 'vis'
+type: module
+description: 'Exibe um grafo RDF com triplas sobre Pedro, Rita e Pessoa.'
+core_version_requirement: ^10
+package: Custom
+version: 1.0
